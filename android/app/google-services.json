@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "193648636894",
+    "project_id": "parcial-3-corte",
+    "storage_bucket": "parcial-3-corte.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193648636894:android:291acf1f41cbad896d234f",
+        "android_client_info": {
+          "package_name": "com.example.parcial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsR-5C4sEyexwf_tS34zVEPvz7ttqZm0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
