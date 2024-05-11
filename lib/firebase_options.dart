@@ -17,6 +17,7 @@ import 'package:flutter/foundation.dart'
 /// 
 /// 
 /// 
+/// uuuuuuu
 const String firebaseUrl = "https://parcial-3-corte-default-rtdb.firebaseio.com/";
 class DefaultFirebaseOptions {
   static FirebaseOptions get currentPlatform {
